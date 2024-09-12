@@ -1,0 +1,12 @@
+[build]
+  command = "ng build --prod"
+  publish = "dist/your-angular-app"  # Modifica questo con il percorso corretto della tua build
+
+[build.environment]
+  # Esempio di variabili di ambiente (sostituisci con valori reali o usa Netlify UI)
+  # SECURITY_TOKEN = "your_security_token" # Non mettere token sensibili qui, usa Netlify UI
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
