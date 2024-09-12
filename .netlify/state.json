@@ -1,0 +1,20 @@
+{
+	"siteId": "cb39d9c9-a0b6-4250-a11b-c2a53b74a713",
+	"geolocation": {
+		"data": {
+			"city": "Paola",
+			"country": {
+				"code": "IT",
+				"name": "Italy"
+			},
+			"subdivision": {
+				"code": "78",
+				"name": "Calabria"
+			},
+			"timezone": "Europe/Rome",
+			"latitude": 39.3593,
+			"longitude": 16.0389
+		},
+		"timestamp": 1726160199423
+	}
+}
